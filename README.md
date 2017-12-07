@@ -42,6 +42,7 @@ The goal of this workshop is to build a todo list app. I know what you are think
 
 * https://angularjs.org/
 * https://getbootstrap.com/docs/3.3/
+* https://gruntjs.com/
 
 ## Final Thoughts
 
