@@ -24,14 +24,14 @@ The goal of this workshop is to build a todo list app. I know what you are think
 ### Tasks
 
 1. Implement the following logic:
-    a. Browse todo lists.
-    b. Create todo list.
-    c. Update metadata of todo list (ie. title).
-    d. Delete todo list.
-    e. Add item to a todo list.
-    f. Update item.
-    g. Delete item.
-    h. (STRETCH GOAL) Move item to another todo list.
+    * a. Browse todo lists.
+    * b. Create todo list.
+    * c. Update metadata of todo list (ie. title).
+    * d. Delete todo list.
+    * e. Add item to a todo list.
+    * f. Update item.
+    * g. Delete item.
+    * h. (STRETCH GOAL) Move item to another todo list.
 2. Implement at least 2 directives (ie. list, list-item).
 3. Implement a service layer for managing the data in local storage.
 4. Make use of the Promise pattern in the service layer when manipulating the data.
